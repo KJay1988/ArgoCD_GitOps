@@ -1,5 +1,5 @@
 replicas: 1
 image:
-  repository: wadaguan/spring
+  repository: KJay1988/spring
   tag: 0.0.1
 environment: staging
